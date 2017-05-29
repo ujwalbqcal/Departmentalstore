@@ -1,0 +1,7 @@
+1	ppppp	45	4506
+3	fanta	38	49955
+4	asdfdf	545	0
+7	Lays	40	18916
+8	Sprite	45	494
+2	pepsodent	20	4960
+9	Honey	45	10000
