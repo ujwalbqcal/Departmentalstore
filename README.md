@@ -1,0 +1,2 @@
+# Departmentalstore
+Departmental management system
